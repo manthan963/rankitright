@@ -1,1 +1,1 @@
-web: gunicorn RankitRight.wsgi
+web:gunicorn RankitRight.wsgi
